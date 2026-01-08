@@ -20,3 +20,8 @@
 - Time Complexity: O(n)
 - Space Complexity: O(1)
 
+### ✔ Day 4: Merge Two Sorted Arrays
+- Technique: Two Pointers
+- Key Concept: Merging sorted data efficiently
+- Time Complexity: O(n + m)
+- Space Complexity: O(n + m)
