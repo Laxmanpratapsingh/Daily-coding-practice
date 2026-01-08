@@ -25,3 +25,9 @@
 - Key Concept: Merging sorted data efficiently
 - Time Complexity: O(n + m)
 - Space Complexity: O(n + m)
+
+### ✔ Day 5: Remove Duplicates from Sorted Array
+- Technique: Two Pointers
+- Key Concept: In-place duplicate removal
+- Time Complexity: O(n)
+- Space Complexity: O(1)
