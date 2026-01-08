@@ -31,3 +31,9 @@
 - Key Concept: In-place duplicate removal
 - Time Complexity: O(n)
 - Space Complexity: O(1)
+
+### ✔ Day 6: Binary Search
+- Technique: Divide & Conquer
+- Key Concept: Fast searching in sorted data
+- Time Complexity: O(log n)
+- Space Complexity: O(1)
