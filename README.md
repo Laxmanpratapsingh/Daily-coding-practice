@@ -37,3 +37,27 @@
 - Key Concept: Fast searching in sorted data
 - Time Complexity: O(log n)
 - Space Complexity: O(1)
+
+
+### Day 7 to 9 — String Processing (LLM Core)
+
+✔ Problem 1 — Valid Anagram
+Technique: Hash Map
+Goal: Check if two strings contain the same characters with the same frequency
+Used In: Token comparison, duplicate prompt detection
+Time Complexity: O(n)
+Space Complexity: O(n)
+
+✔ Problem 2 — Longest Substring Without Repeating Characters
+Technique: Sliding Window
+Goal: Find the longest part of a string without repeating character
+Used In: Context window management, token optimization in LLMs
+Time Complexity: O(n)
+Space Complexity: O(n)
+
+✔ Problem 3 — Palindrome Check
+Technique: Two Pointers
+Goal: Check if a string reads the same forward and backward
+Used In: Text validation, pattern detection in input prompts
+Time Complexity: O(n)
+Space Complexity: O(1)
