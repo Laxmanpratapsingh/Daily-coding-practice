@@ -61,3 +61,5 @@ Goal: Check if a string reads the same forward and backward
 Used In: Text validation, pattern detection in input prompts
 Time Complexity: O(n)
 Space Complexity: O(1)
+
+### Day 10
