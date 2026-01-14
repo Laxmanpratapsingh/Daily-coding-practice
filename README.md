@@ -62,4 +62,4 @@ Used In: Text validation, pattern detection in input prompts
 Time Complexity: O(n)
 Space Complexity: O(1)
 
-### Day 10 -
+### Day 10 
