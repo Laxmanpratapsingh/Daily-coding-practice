@@ -1,4 +1,4 @@
-# Daily-coding-practice
+# Daily-coding-practice.
 
 ### ✔ Day 1: Maximum Subarray
 - Technique: Kadane’s Algorithm
